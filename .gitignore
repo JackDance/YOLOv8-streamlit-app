@@ -1,2 +1,8 @@
 .idea
 .DS_Store
+
+# outputs folder
+runs
+
+# weights folder
+weights
