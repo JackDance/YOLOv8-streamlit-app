@@ -5,7 +5,7 @@
 
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="50%" src="media/image.png"></a>
+      <img width="50%" src="pic_bed/banner-yolov8.png"></a>
   </p>
 
 <br>
