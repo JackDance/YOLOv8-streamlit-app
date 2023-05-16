@@ -89,5 +89,6 @@ Then will start the Streamlit server and open your web browser to the default St
 - Add `Tracking`, `Classification` and `Pose estimation` Tasks.
 
 
+***
 
 If you also like this project, you may wish to give a `star` (^.^)✨ . If any questions, please raise `issue`~
