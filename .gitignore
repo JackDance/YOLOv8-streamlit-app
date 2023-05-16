@@ -1,8 +1,6 @@
 .idea
 .DS_Store
-
-# outputs folder
-runs
+__pycache__
 
 # weights folder
 weights
