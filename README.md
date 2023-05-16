@@ -82,12 +82,11 @@ Create a directory named `weights` and create a subdirectory named `detection` a
 ```commandline
 streamlit run app.py
 ```
+Then will start the Streamlit server and open your web browser to the default Streamlit page automatically.
 
 
-
-
-
-
+## TODO List
+- Add `Tracking`, `Classification` and `Pose estimation` Tasks.
 
 
 
