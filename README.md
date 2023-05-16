@@ -41,9 +41,6 @@ This repository supply a user-friendly interactive interface for [YOLOv8](https:
 ![webcam_input_demo](https://github.com/JackDance/YOLOv8-streamlit-app/blob/master/pic_bed/webcam_input_demo.png)
 
 
-## Online Experience On Streamlit Cloud
-![]()
-
 ## Installation
 ### Create a new conda environment
 ```commandline
