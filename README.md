@@ -32,14 +32,13 @@ This repository supply a user-friendly interactive interface for [YOLOv8](https:
 
 ## Interactive Interface
 ### Image Input Interface
-
+![image_input_demo](https://github.com/JackDance/YOLOv8-streamlit-app/blob/master/pic_bed/image_input_demo.png)
 
 ### Video Input Interface
-
+![video_input_demo](https://github.com/JackDance/YOLOv8-streamlit-app/blob/master/pic_bed/video_input_demo.png)
 
 ### Webcam Input Interface
-
-
+![webcam_input_demo](https://github.com/JackDance/YOLOv8-streamlit-app/blob/master/pic_bed/webcam_input_demo.png)
 
 
 ## Online Experience On Streamlit Cloud
