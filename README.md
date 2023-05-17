@@ -83,7 +83,9 @@ Then will start the Streamlit server and open your web browser to the default St
 
 
 ## TODO List
-- Add `Tracking`, `Classification` and `Pose estimation` Tasks.
+- Add `Tracking` capability.
+- Add `Classification` capability.
+- Add `Pose estimation` capability.
 
 
 ***
